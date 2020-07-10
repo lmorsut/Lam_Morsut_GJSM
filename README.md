@@ -2,6 +2,8 @@
 These files are the codes for the following bioRxiv manuscript: https://www.biorxiv.org/content/10.1101/784496v1.abstract
 
 These files run in CompuCell3D v3.7.8. I intend to update them to the current version of CC3D soon.
+As they are, these files are complete and ready to run in CC3D. HOWEVER, I recommend changing the "USEDNODES" parameter to suit your system.
+After all, calling 8 cores on a quad/dual core cpu would be painful. As a general rule, the parameter should be a power of 2 for clean division of the lattice.
 
 The file names do not align to the bioArxiv preprint and align to the current version of the manuscript to be submitted. This will be rectified in the final version of the manuscript.
 
