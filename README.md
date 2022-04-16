@@ -1,4 +1,10 @@
 # Lam_Morsut_GJSM
+
+
+The codes for the paper: Parameterized Computational Framework for the Description and Design of Genetic Circuits of Morphogenesis Based on Contact-Dependent Signaling and Changes in Cell–Cell Adhesion 
+can be found in the ACS Paper branch.
+
+
 These files are the codes for the following bioRxiv manuscript: https://www.biorxiv.org/content/10.1101/784496v2
 
 These files run in CompuCell3D v3.7.8. I intend to update them to the current version of CC3D soon.
