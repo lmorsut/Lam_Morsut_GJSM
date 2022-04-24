@@ -1,0 +1,9 @@
+<ParameterScan version="3.7.0">
+   <OutputDirectory>S5N_ParameterScan_WR_THTO</OutputDirectory>
+   <ParameterList Resource="Simulation/ELUGM.xml">
+      <Parameter CurrentIteration="0" Name="RandomSeed" Type="XML_CDATA" ValueType="int">
+         [['CompuCell3D','Revision','20171208','Version','3.7.7'],['Potts'],['RandomSeed']]
+         <Values>7295,19515,22971,86891,2357,1555,60277,32271,45636,62797</Values>
+      </Parameter>
+   </ParameterList>
+</ParameterScan>
