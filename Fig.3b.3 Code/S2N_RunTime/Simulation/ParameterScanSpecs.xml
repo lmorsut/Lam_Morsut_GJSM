@@ -1,9 +1,0 @@
-<ParameterScan version="3.7.0">
-   <OutputDirectory>S2N_ParameterScan</OutputDirectory>
-   <ParameterList Resource="Simulation/ELUGM.xml">
-      <Parameter CurrentIteration="0" Name="Steps" Type="XML_CDATA" ValueType="int">
-         [['CompuCell3D','Revision','20171208','Version','3.7.7'],['Potts'],['Steps']]
-         <Values>85484,37574,2877,3110,8817,34010,93883,68453,745,97578</Values>
-      </Parameter>
-   </ParameterList>
-</ParameterScan>
