@@ -1,9 +1,0 @@
-<ParameterScan version="3.7.0">
-   <OutputDirectory>NeoSynElongv1_3_ParameterScan</OutputDirectory>
-   <ParameterList Resource="Simulation/ELUGM.xml">
-      <Parameter CurrentIteration="0" Name="RandomSeed" Type="XML_CDATA" ValueType="int">
-         [['CompuCell3D','Revision','20171208','Version','3.7.7'],['Potts'],['RandomSeed']]
-         <Values>8894,59660,84445,67885,12033,66075,22537,45902,53921,16947</Values>
-      </Parameter>
-   </ParameterList>
-</ParameterScan>
