@@ -66,7 +66,7 @@ Troubleshooting.
 If the simulation crashes shortly after running, it may be becasue the simulation is set to 8 cores for parallelization, but your system cannot support that.
 1) In this case, from the twedit instruction set (From Step 4), navigate to the tab 'ELUGMSteppables'.
 ![image](https://user-images.githubusercontent.com/68087210/165003098-c78b42ed-4874-401e-a68d-989ccc51c281.png)
-2) Go to line 45, set USEDNODES=1 (Or whatever is appropriate for your sysem)
+2) Go to line 45, set USEDNODES=1 (Or whatever is appropriate for your system)
 ) ![image](https://user-images.githubusercontent.com/68087210/165003135-19743244-4bc2-48bb-803a-5c7a02446d25.png)
 I find 8 offers a good balance of performance and speed, without splitting the lattice into too many pieces.
 
